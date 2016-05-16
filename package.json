@@ -1,0 +1,24 @@
+{
+  "name": "portable-module",
+  "version": "0.1.0",
+  "description": "Simple, portable module system compatible with node, the browser and CodePen.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sven Neumann <killroy@gmail.com> (http://svenneumann.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killroy42/portable-module.git"
+  },
+  "keywords": [
+    "module",
+    "requirejs",
+    "portable"
+  ],
+  "bugs": {
+    "url": "https://github.com/killroy42/portable-module/issues"
+  },
+  "homepage": "https://github.com/killroy42/portable-module#readme"
+}
