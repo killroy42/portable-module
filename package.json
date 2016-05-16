@@ -1,7 +1,7 @@
 {
   "name": "portable-module",
-  "version": "0.1.0",
-  "description": "Simple, portable module system compatible with node, the browser and CodePen.io",
+  "version": "0.1.1",
+  "description": "Simple, node/browser compatible module system for nodejs, the browser and CodePen.io",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
